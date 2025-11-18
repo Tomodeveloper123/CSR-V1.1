@@ -1,0 +1,5 @@
+{
+  "name": "CSR-V1.1",
+  "description": "A web application to showcase Corporate Social Responsibility activities, featuring an image slider of events, news articles, and a user login portal.",
+  "requestFramePermissions": []
+}
